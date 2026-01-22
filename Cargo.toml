@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "bot",
+    "demon",
+]
+
+resolver = "3"
