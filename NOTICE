@@ -8219,7 +8219,7 @@ SOFTWARE.
 License: MIT License
 Used by:
 - discord_bot v0.1.0
-- discord_demon v0.1.0
+- discord_daemon v0.1.0
 - brotli-decompressor v5.0.0
 - governor v0.10.4
 

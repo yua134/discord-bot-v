@@ -1,9 +1,8 @@
 [package]
-name = "discord_demon"
+name = "discord_daemon"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
 
 [dependencies]
-nix = "0.30.1"
 postgres = "0.19.12"
