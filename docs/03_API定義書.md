@@ -4,12 +4,12 @@
 
 ### 制限
 
-- RT 50件/s
+- RT 50件/s(目安)
 - 無効なrq 10,000件/10m
 
 ### 対策
 
-- rq数が多いタスクはgovernorで流量制限
+- twilightが基本的にいいようにやってくれる
 - 個人/channelごとにcool down timeの設定
 - cacheを活用する
 
